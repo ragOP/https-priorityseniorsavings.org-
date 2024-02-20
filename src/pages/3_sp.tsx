@@ -197,7 +197,7 @@ export default function Third_SP() {
 						<div className='spots-count'>Lugares restantes: 4</div>
 						<div className='tap-direction-span'>👇 TOCA ABAJO PARA LLAMAR 👇</div>
 						<a href = "tel:+18587798335">
-							<div className='call-btn' onClick={handleCall}>
+							<div className='call-btn' >
 								CALL (858) 779-8335
 							</div>
 						</a>
