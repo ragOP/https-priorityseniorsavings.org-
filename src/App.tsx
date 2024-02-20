@@ -13,7 +13,7 @@ function App() {
         <Routes>
         
      
-          <Route path = "/spanmed1" element = {<Third_SP />} />
+        <Route index element={<Third_SP />} />
         
         
         </Routes>
