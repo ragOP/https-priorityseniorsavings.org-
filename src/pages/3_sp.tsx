@@ -8,7 +8,6 @@ import { scrollTo } from '../utils';
 
 import Head_bg from '../assets/hero5.png'
 
-// google tag manager
 
 const tagManagerArgs = {
     gtmId: 'GTM-54RD4XN'
