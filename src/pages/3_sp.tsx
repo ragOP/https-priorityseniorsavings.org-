@@ -193,7 +193,7 @@ export default function Third_SP() {
 					</div>:
 					<div className='checking'>
 						<div className='congrats'>¡Felicitaciones, usted califica!</div>
-						<div className='top-description-5'>¡Haga Una <b>Llamada Rápida</b> Para Reclamar Su Tarjeta Flex!</div>
+						<div className='top-description-5'>¡Realiza Una <b>Llamada Rápida</b> Para Reclamar Tu Asignación De Comestibles!</div>
 						<div className='spots-count'>Lugares restantes: 4</div>
 						<div className='tap-direction-span'>👇 TOCA ABAJO PARA LLAMAR 👇</div>
 						<a href = "tel:+18666570134">
