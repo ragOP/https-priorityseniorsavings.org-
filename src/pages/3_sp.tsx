@@ -175,7 +175,7 @@ export default function Third_SP() {
 						<div className='main-des-title'>Los estadounidenses mayores de 65 años ahora pueden calificar para la asignación de comestibles de $3600 en 2024.</div>
 						<img className='topic-img-5' src = {Head_bg} alt = "head"/>
 						<div className='main-des-5'>Los estadounidenses mayores de 65 años pueden solicitar la Tarjeta de Asignación de Comestibles 2024 que les otorga hasta $3600. Los estadounidenses pueden utilizar los fondos para cubrir completamente sus comestibles, medicamentos, etc. en Walmart y miles de otras tiendas participantes.</div>
-						<div className='main-des-5' style = {{marginTop:"1rem"}}><b>¡Si aún no ha reclamado su asignación mensual</b>responda las preguntas a continuación y una vez aprobado, recibirá su Asignación de Comestibles de $3,600 por correo en unos pocos días, listo para usar!</div>
+						<div className='main-des-5' style = {{marginTop:"1rem"}}><b>¡Si aún no ha reclamado su asignación </b>mensual responda las preguntas a continuación y una vez aprobado, recibirá su Asignación de Comestibles de $3,600 por correo en unos pocos días, listo para usar!</div>
 					</div>
 					<div className='survey'>
 					<div className='quiz-5' id='btn'>{quiz}</div>
